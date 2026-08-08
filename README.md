@@ -73,14 +73,3 @@ The models are evaluated using:
 - Excel Dataset
 - VS Code
 
-## Project Structure
-
-```text
-DecodeLabs-Project-2-Data-Classification/
-│
-├── P2 Data Classification.py
-├── dataset.xlsx
-├── model_comparison.csv
-├── confusion_matrix.png
-├── feature_importance.png
-└── README.md
